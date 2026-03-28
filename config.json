@@ -1,7 +1,5 @@
 {
   "status": "online",
   "loader_enabled": true,
-  "version": "1.0",
-  "products": ["lucifer full"],
-  "maintenance": false
+  "version": "1.0"
 }
