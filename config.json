@@ -1,5 +1,5 @@
 {
-  "status": "updating",
-  "loader_enabled": false,
+  "status": "offline",
+  "loader_enabled": true,
   "version": "1.2"
 }
